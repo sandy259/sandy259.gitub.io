@@ -1,0 +1,159 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(64, 208, 224);
+    width: 100;
+}
+a{
+    text-decoration: none;
+}
+header ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+header ul li{
+margin: 10px;
+}
+
+img{
+    width: 150px;
+   
+
+}
+h1{
+    font-size: 24px;
+    color: rgb(14, 14, 65);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+p{
+    font-size: 16px;
+    color: rgb(71, 66, 66);
+}
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    width:100%;
+    height: 400%;
+    margin: 10px 0 10px 0;
+    
+    background-color: 
+    rgb(177, 190, 179);
+    
+}
+
+.caja{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja img{
+border-radius: 50%;
+}
+.caja p{
+    font-size: 12px;
+}
+
+.contenedor2{
+    display: flex;
+    flex-direction: row;
+    width:100%;
+    height: 400%;
+    margin: 10px 0 10px 0;
+    
+    background-color: rgb(233, 233, 224);
+    
+}
+.caja2{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja p{
+    font-size: 12px;
+}
+
+#Suculentas{
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0 10px 0;
+    align-items: center;
+    background-color: rgb(246, 246, 240);
+}
+
+#Suculentas h1{
+   
+    font-size: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0 10px 0;
+  
+}
+
+#Exterior{
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0 10px 0;
+    align-items: center;
+    background-color: rgb(246, 246, 240);
+}
+
+#Exterior h1{
+   
+    font-size: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0 10px 0;
+  
+}
+
+#Interior{
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0 10px 0;
+    align-items: center;
+    background-color: rgb(246, 246, 240);
+}
+
+#Interior h1{
+   
+    font-size: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0 10px 0;
+  
+}
+
+#Medicinales{
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0 10px 0;
+    align-items: center;
+    background-color: rgb(246, 246, 240);
+}
+
+#Medicinales h1{
+   
+    font-size: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0 10px 0;
+  
+}
